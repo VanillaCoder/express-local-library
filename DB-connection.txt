@@ -1,8 +1,0 @@
-mongodb+srv://admin:Portal99@cluster1.cv2yqzq.mongodb.net/local-library?retryWrites=true&w=majority
-
-node populatedb mongodb+srv://admin:Portal99@cluster1.cv2yqzq.mongodb.net/local-library?retryWrites=true&w=majority
-
-
-
-Top secret password 
-DO NOT SHARE OR YOU MAY DIE
